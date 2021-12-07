@@ -7,7 +7,7 @@ importance: 4
 Examinez le code suivant :
 
 ```js
-const birthday = '18.04.1982';
+
 
 const age = someCode(birthday);
 ```

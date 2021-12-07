@@ -1,4 +1,4 @@
-// Variable name 
+// Variable planet name 
 let ourPlanet = "Terre";
 
 // Actual visitor 

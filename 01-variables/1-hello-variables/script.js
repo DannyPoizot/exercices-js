@@ -1,4 +1,11 @@
-/*  Votre code Javascript vient ici:
-      - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
-      - N'oubliez pas de sauvegarder pour afficher les changements.
-*/
+// The two variables to initiate
+let admin, name; 
+
+// Name "John" affected to variable name
+name = "John";
+
+// Variable name affected to the variable admin
+admin = name;
+
+// The alert wich show the result.
+alert(admin);  

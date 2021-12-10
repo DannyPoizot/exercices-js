@@ -1,3 +1,5 @@
+"use strict";
+
 // The two variables to initiate
 let admin, name; 
 

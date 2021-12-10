@@ -1,4 +1,8 @@
-/*  Votre code Javascript vient ici:
-      - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
-      - N'oubliez pas de sauvegarder pour afficher les changements.
-*/
+"use strict";
+
+// The window wich ask the name
+let askName = prompt("What is your name ?", "");
+
+// The alert wich shows the name
+alert(askName);
+

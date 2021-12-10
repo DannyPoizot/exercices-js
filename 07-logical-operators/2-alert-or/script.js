@@ -1,4 +1,2 @@
-/*  Votre code Javascript vient ici:
-      - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
-      - N'oubliez pas de sauvegarder pour afficher les changements.
-*/
+// This code will show a first alert with 1, and a second alert with 2.
+alert( alert(1) || 2 || alert(3) );

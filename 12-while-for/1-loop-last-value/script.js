@@ -1,4 +1,7 @@
-/*  Votre code Javascript vient ici:
-      - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
-      - N'oubliez pas de sauvegarder pour afficher les changements.
-*/
+let i = 3;
+
+while (i) {
+  alert( i-- );
+}
+
+// First 3, then 2, and then 1. Because the "i--" does a decrementation.

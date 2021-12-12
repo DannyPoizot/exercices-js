@@ -1,4 +1,11 @@
-/*  Votre code Javascript vient ici:
-      - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
-      - N'oubliez pas de sauvegarder pour afficher les changements.
-*/
+"use strict";
+
+let number = prompt("Please enter a number", "");
+
+if(number > 0) {
+      alert("1");
+} else if(number < 0)
+      alert("-1");
+else {
+      alert("0");
+}

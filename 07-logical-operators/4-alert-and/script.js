@@ -1,4 +1,2 @@
-/*  Votre code Javascript vient ici:
-      - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
-      - N'oubliez pas de sauvegarder pour afficher les changements.
-*/
+// This will show a first alert "1", then a second with "undefined".
+alert( alert(1) && alert(2) );
